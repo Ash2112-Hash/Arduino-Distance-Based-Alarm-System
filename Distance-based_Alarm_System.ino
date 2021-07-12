@@ -1,5 +1,4 @@
 // Author: Ashwin Unnithan
-// Company: RAM Industries
 // Device: Distance-based Alarm System V.1.0
 // Created Date: Friday April 9, 2021
 // Publication Date: Sunday May 9, 2021
