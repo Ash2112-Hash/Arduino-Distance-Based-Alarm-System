@@ -1,7 +1,4 @@
-// Author: Ashwin Unnithan
 // Device: Distance-based Alarm System V.1.0
-// Created Date: Friday April 9, 2021
-// Publication Date: Sunday May 9, 2021
 // Program: An ultrasonic distance-based alarm system which measures frontal distance(cm) and reacts to different distance thresholds through various alarm mechanisms  
 
 
